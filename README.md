@@ -10,6 +10,24 @@
   <a href="https://github.com/Kwickflix/kwicktag/releases/latest"><b>Download the latest version</b></a>
 </p>
 
+<p align="center">
+<a href="#"><img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=2b2b2b"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Kwickflix/kwicktag/releases/latest"><img alt="Release date" src="https://img.shields.io/github/release-date/Kwickflix/kwicktag?style=for-the-badge&logo=github&logoColor=white&label=release%20date&labelColor=2b2b2b&color=D6A700"></a>
+<a href="https://github.com/Kwickflix/kwicktag/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/Kwickflix/kwicktag?style=for-the-badge&logo=github&logoColor=white&label=release&labelColor=2b2b2b&color=1E7BD7"></a>
+<a href="https://github.com/Kwickflix/kwicktag/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Kwickflix/kwicktag/total?style=for-the-badge&logo=github&logoColor=white&label=downloads&labelColor=2b2b2b&color=1E7BD7"></a>
+<a href="https://github.com/Kwickflix/kwicktag/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Kwickflix/kwicktag?style=for-the-badge&logo=github&logoColor=white&label=stars&labelColor=2b2b2b&color=1E7BD7"></a>
+</p>
+
+<p align="center">
+<a href="https://discord.gg/ruGAfxUmZ3"><img alt="Discord" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FruGAfxUmZ3%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=2b2b2b&color=5865F2"></a>
+<a href="https://t.me/+8ifZv6x0sgAzOWE5"><img alt="Telegram" src="https://img.shields.io/badge/telegram-join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2b2b"></a>
+<a href="https://www.facebook.com/profile.php?id=61590978926218"><img alt="Facebook" src="https://img.shields.io/badge/facebook-follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2b2b2b"></a>
+<a href="https://kwickplayer.tv/"><img alt="Website" src="https://img.shields.io/badge/website-kwickplayer.tv-1E7BD7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b2b"></a>
+</p>
+
 ![KwickTag](screenshots/main.png)
 
 ## What It Does
@@ -31,7 +49,7 @@
 3. Run `KwickTag.exe`. Windows may ask once whether to trust it, because the app is not signed.
 4. Drop audiobook or ebook files or folders onto the window.
 
-For chapters and merging, KwickTag needs **FFmpeg**. Get it from [ffmpeg.org](https://ffmpeg.org/download.html) or install it with `winget install ffmpeg`, and the app finds it on its own.
+Everything it needs, FFmpeg included, is inside the folder. There is nothing else to install.
 
 ## How to Use It
 
